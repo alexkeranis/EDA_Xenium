@@ -2,3 +2,5 @@
 !.gitignore
 !xenium_basic_analysis.ipynb
 !README.md
+!assets/
+!assets/*.png
